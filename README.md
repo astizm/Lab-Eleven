@@ -13,6 +13,10 @@ Linked lists
 -first node is called the head and the last node is the tail.
 - 
 Trees
+-expands linked list to many nodes (hierarchal structure)
+-prototypal inheritance
+-React components
+
 Graphs
 
 -Hash tables?
@@ -20,8 +24,15 @@ Graphs
 
 Explanation of linked lists
 - introduction
+if this, then this
+searches for values
 
--advantages vs disadvantages/strengths and weaknesses
+-doubly linked list  to return to previous node
+
+Advantages vs disadvantages/strengths and weaknesses
+-insertion or deletion of elements at head or tail is possible without restructuring
+-Access to nodes is also sequential
+-
 
 include psuedocode and diagrams
 APA referencing
